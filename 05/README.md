@@ -1,0 +1,1 @@
+Pretty terrible solution today (written in python). After talking it though with a couple other participants, going to try for a much more efficient solution that iterates over the right things.
