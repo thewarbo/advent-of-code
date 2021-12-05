@@ -1,1 +1,1 @@
-Pretty terrible solution today (written in python). After talking it though with a couple other participants and realizing what I should have done, going to try for a much more efficient solution that iterates over the right things.
+This one has two solutions because the first solution iterated a pretty terrible way that worked okay on `test-input` but terribly on `input`. After solving and talking to other participants, I went back and fiddled with the Java Streams API in order to get it to work in as stream-y a way as possible.
